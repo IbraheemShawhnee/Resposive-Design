@@ -32,5 +32,9 @@ Install my-project with git
     
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](/img/M1.png)
+
+![App Screenshot](/img/M2.png)
+
+![App Screenshot](/img/M3.png)
 
