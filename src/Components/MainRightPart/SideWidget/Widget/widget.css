@@ -1,0 +1,9 @@
+.widget-recent-post {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #707070;
+  margin-bottom: 1em;
+}
+div img {
+  width: 10%;
+}

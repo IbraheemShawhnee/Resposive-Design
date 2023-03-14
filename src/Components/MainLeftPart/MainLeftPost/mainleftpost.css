@@ -1,0 +1,18 @@
+.article-recent {
+  display: flex;
+  margin-bottom: 2em;
+}
+img {
+  width: 50%;
+}
+
+.article-recent-main {
+  order: 2;
+}
+
+.article-recent-secondary img {
+  width: 20%;
+}
+.article-recent-secondary {
+  order: 1;
+}

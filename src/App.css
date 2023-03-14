@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;700&display=swap");
+
+.App {
+  margin: 0;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 1.125rem;
+  font-weight: 300;
+}
+
+img {
+  width: 90%;
+}
